@@ -863,9 +863,9 @@ header {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 0.5rem 0.55rem;
+    padding: 0.5rem 0.52rem;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .navbar a:hover {
