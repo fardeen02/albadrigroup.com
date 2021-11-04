@@ -37,7 +37,7 @@ function startTimer2() {
 }
 
 var images = [], x = -1;
-images[0] = "images/p2.jpeg";
+images[0] = "visiting.jpg";
 images[1] = "images/p3.jpeg";
 images[2] = "images/p11.jpeg";
 images[3] = "images/p13.jpg";
